@@ -1,6 +1,18 @@
 ---
 import "../global/styles/defaults.css"
 import "../global/styles/custom.css"
+
+export interface Props {
+    title?: string
+    description?: string
+    image?: string
+}
+
+const {
+    title = "Mandiri Kusen",
+    description = "Buat furniture, interior dan custom furniture harga murah",
+    image
+} = Astro.props
 ---
 
 <html lang="en">
@@ -9,7 +21,9 @@ import "../global/styles/custom.css"
 		<link rel="icon" type="image/svg+xml" href="/favicon.svg" />
 		<meta name="viewport" content="width=device-width" />
 		<meta name="generator" content={Astro.generator} />
-		<title>Mandiri Kusen</title>
+		<meta property="og:title" content={title} />
+        <meta property="og:description" content={description} />
+        <meta property="og:image" content={image} />
 	</head>
 	<body class="text-neutral-50 bg-zinc-950 uppercase">
 		<slot/>
