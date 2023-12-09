@@ -5,13 +5,11 @@ import "../global/styles/custom.css"
 export interface Props {
     title?: string
     description?: string
-    image?: string
 }
 
 const {
     title = "Mandiri Kusen",
     description = "Buat furniture, interior dan custom furniture harga murah",
-    image
 } = Astro.props
 ---
 
@@ -23,7 +21,7 @@ const {
 		<meta name="generator" content={Astro.generator} />
 		<meta property="og:title" content={title} />
         <meta property="og:description" content={description} />
-        <meta property="og:image" content={image} />
+     
 	</head>
 	<body class="text-neutral-50 bg-zinc-950 uppercase">
 		<slot/>
