@@ -1,22 +1,22 @@
 [
-	{
-		"title": "residential",
-		"description": "provide a full engaging experience in building information modelling. we have embraced this technology with the aim of streamlining our production process"
-	},
-	{
-		"title": "bussines",
-		"description": "provide a full engaging experience in building information modelling. we have embraced this technology with the aim of streamlining our production process"
-	},
-    {
-		"title": "hospitality",
-		"description": "provide a full engaging experience in building information modelling. we have embraced this technology with the aim of streamlining our production process"
-	},
-    {
-		"title": "industrial",
-		"description": "provide a full engaging experience in building information modelling. we have embraced this technology with the aim of streamlining our production process"
-	},
-    {
-		"title": "educational",
-		"description": "provide a full engaging experience in building information modelling. we have embraced this technology with the aim of streamlining our production process"
-	}
+  {
+    "title": "order",
+    "description": "Untuk melakukan pemesanan, Anda hanya perlu menghubungi kami melalui kontak yang tersedia dan menyampaikan kebutuhan Anda."
+  },
+  {
+    "title": "service",
+    "description": "Jasa kami menyediakan solusi khusus untuk furnitur dan kusen bangunan yang dapat disesuaikan sepenuhnya dengan keinginan Anda. Tawarkan desain interior bangunan modern yang dapat disesuaikan dengan preferensi pribadi Anda. Temukan keunikan dalam setiap detail bersama layanan kami untuk menciptakan ruang yang sesuai dengan visi Anda."
+  },
+  {
+    "title": "kualitas",
+    "description": "Kualitas kami tak diragukan lagi, didukung oleh pengalaman 10 tahun dalam industri ini. Kami menggunakan bahan terbaik, dan memberikan fleksibilitas melalui konsultasi untuk memenuhi keinginan Anda dalam pemilihan bahan baku. Percayakan kepada kami untuk memastikan produk berkualitas tinggi yang sesuai dengan standar kepuasan tertinggi."
+  },
+  {
+    "title": "apakah bisa di antar ?",
+    "description": "Kami menyediakan pengiriman yang dapat disesuaikan, terutama untuk wilayah Jabodetabek. Fleksibilitas pengantaran kami memastikan kenyamanan Anda, sehingga produk yang Anda pilih dapat tiba tepat waktu dan sesuai dengan kebutuhan Anda"
+  },
+  {
+    "title": "alamat kusen mandiri ?",
+    "description": "Jl. Raya Pasir Putih No.81D, Pasir Putih, Kec. Sawangan, Kota Depok, Jawa Barat 16519"
+  }
 ]
